@@ -1,0 +1,10 @@
+exo1.txt
+
+:Author: antoinechauvin
+:Email: antoinechauvin@Antoines-MacBook-Pro.local
+:Date: 2016-09-12 10:51
+
+1) recopie stdin vers stdout et ne fait rien
+2) reconnais tous les espaces et tabulations en fin de ligne
+3) reconnais le premier caractère qui n'est pas une fin de ligne
+4) reconnais tous les espaces et tabulations dans la phrase et en fin de ligne

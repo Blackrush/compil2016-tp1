@@ -1,0 +1,16 @@
+exo2.txt
+
+:Author: antoinechauvin
+:Email: antoinechauvin@Antoines-MacBook-Pro.local
+:Date: 2016-09-12 11:21
+
+1) il reconnait correctement les mots
+2) il interprete 'Alpha' comme un IDENT
+3) il interprete ALPHA comme 5 IDENT différent A L P H A
+4) il absorbe tous les caractères entre le premier et dernier apostrophe indépendemment des autres mots valides dans l'entrée
+   exemple:
+    - l'entrée 'hello' World 'salut'
+    - trouve la chaine 'hello' World 'salut'
+    - et non pas la chaine 'hello'
+    - puis l'ident World
+    - et enfin la chaine 'salut'
